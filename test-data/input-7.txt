@@ -1,0 +1,3 @@
+# ALL mode with both stores stocked and working
+GT4500,10,0,10,0
+TORPEDO,ALL  # both stores fire

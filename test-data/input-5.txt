@@ -1,0 +1,3 @@
+# Primary store fails with failure rate 1.0, should not try secondary
+GT4500,10,1.0,10,0
+TORPEDO,SINGLE  # primary fails, does not attempt secondary
