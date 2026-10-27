@@ -1,0 +1,4 @@
+# Primary has 1, secondary 0. Primary fires once, then second shot finds both empty
+GT4500,1,0,0,0
+TORPEDO,SINGLE  # fires primary (primary now empty)
+TORPEDO,SINGLE  # wasPrimaryFiredLast is true, secondary empty, primary ALSO empty -> FAIL
