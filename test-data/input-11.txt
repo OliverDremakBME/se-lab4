@@ -1,0 +1,3 @@
+# ALL mode with both stores failing (fail rate 1.0)
+GT4500,10,1.0,10,1.0
+TORPEDO,ALL  # both stores fail -> failure

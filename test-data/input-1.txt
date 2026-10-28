@@ -1,0 +1,5 @@
+# Alternating firing between primary and secondary stores in SINGLE mode
+GT4500,10,0,10,0
+TORPEDO,SINGLE  # fires primary
+TORPEDO,SINGLE  # fires secondary
+TORPEDO,SINGLE  # fires primary again

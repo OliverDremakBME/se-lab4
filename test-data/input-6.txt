@@ -1,0 +1,4 @@
+# Secondary store fails with failure rate 1.0 in SINGLE mode
+GT4500,10,0,10,1.0
+TORPEDO,SINGLE  # primary fires successfully
+TORPEDO,SINGLE  # secondary fails, does not attempt primary
